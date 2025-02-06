@@ -20,3 +20,7 @@ React JS: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
 Swiper JS: A modern touch slider component for mobile and web.
+
+
+
+![image alt](https://github.com/gauravjethi1308/My-portfolio/blob/235e010033b18a23997b4a07beae5f9d967cfea4/Screenshot%20(40).png)
